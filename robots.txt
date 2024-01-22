@@ -1,0 +1,7 @@
+# robots.txt generado por atecnis.com
+User-agent: Nutch
+Disallow: /
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://github.com/MariaTrapote/Portafolio.Maria/blob/main/.htaccess
